@@ -21,3 +21,7 @@ Part 2: Scrape and Analyze Mars Weather Data
 part_1_mars_news.ipynb - this file contains the code used to generate mars.json by scraping the html/css tags on the mars news website and turning the scraped data into a list of python dictionaries
 
 part_2_mars_waether.ipynb - this file contains the code used to generate mars_data.csv (by scraping html/css on the mars weather site), as well as the supplemental data analysis on mars weather.
+
+# Sites
+
+https://static.bc-edx.com/data/web/mars_facts/temperature.html
